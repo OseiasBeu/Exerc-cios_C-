@@ -1,0 +1,5 @@
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex10\ex10\bin\Debug\ex10.exe.config
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex10\ex10\bin\Debug\ex10.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex10\ex10\bin\Debug\ex10.pdb
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex10\ex10\obj\Debug\ex10.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex10\ex10\obj\Debug\ex10.pdb

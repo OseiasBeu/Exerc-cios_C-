@@ -1,0 +1,6 @@
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex09\EX09\bin\Debug\EX09.exe.config
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex09\EX09\bin\Debug\EX09.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex09\EX09\bin\Debug\EX09.pdb
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex09\EX09\obj\Debug\EX09.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex09\EX09\obj\Debug\EX09.pdb
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex09\EX09\obj\Debug\EX09.csprojResolveAssemblyReference.cache

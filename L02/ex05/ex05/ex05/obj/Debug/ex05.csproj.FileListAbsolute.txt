@@ -1,0 +1,6 @@
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex05\ex05\ex05\bin\Debug\ex05.exe.config
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex05\ex05\ex05\bin\Debug\ex05.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex05\ex05\ex05\bin\Debug\ex05.pdb
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex05\ex05\ex05\obj\Debug\ex05.csprojResolveAssemblyReference.cache
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex05\ex05\ex05\obj\Debug\ex05.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex05\ex05\ex05\obj\Debug\ex05.pdb

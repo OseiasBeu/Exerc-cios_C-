@@ -1,0 +1,5 @@
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex08\ex08\bin\Debug\ex08.exe.config
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex08\ex08\bin\Debug\ex08.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex08\ex08\bin\Debug\ex08.pdb
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex08\ex08\obj\Debug\ex08.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex08\ex08\obj\Debug\ex08.pdb

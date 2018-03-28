@@ -1,0 +1,6 @@
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex07\ex07\bin\Debug\ex07.exe.config
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex07\ex07\bin\Debug\ex07.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex07\ex07\bin\Debug\ex07.pdb
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex07\ex07\obj\Debug\ex07.csprojResolveAssemblyReference.cache
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex07\ex07\obj\Debug\ex07.exe
+C:\Users\Oséias\Desktop\ExercíciosCshar\L02\ex07\ex07\obj\Debug\ex07.pdb
